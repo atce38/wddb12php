@@ -26,6 +26,7 @@ $exe=mysqli_query($con,$query);
     <br>
     <input class="form-control" type="file" name="img" accept="image/*">
     <input class="btn btn-success" type="submit" value="Save">
+    
 </form>
 </div>
 
